@@ -1,0 +1,14 @@
+certifi==2024.6.2
+charset-normalizer==3.3.2
+cmake==3.29.5.1
+comtypes==1.4.4
+idna==3.7
+PyAudio==0.2.14
+pyjokes==0.6.0
+pypiwin32==223
+pyttsx3==2.90
+pywin32==306
+requests==2.32.3
+SpeechRecognition==3.10.4
+typing_extensions==4.12.2
+urllib3==2.2.1
